@@ -1,7 +1,4 @@
-VertexLitGeneric
+"vertexlitgeneric"
 {
-	"$basetexture"	"models\weapons\v_models\knife_t\knife_t"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "models\weapons\v_models\knife_t\knife_t_ref"
-
+"$basetexture" "models/wireframed_texture"
 }
