@@ -52,3 +52,4 @@ Props to Heisen for letting me know about the Wireframe stuff ! :D
 - Custom Scoreboard (White x Transparent)
 - Custom HUD colors (Teal x White)
 - Custom sidepanel/radarpanel (Teal x White x Transparent)
+- Custom Main Menu Background (Full Dark)
