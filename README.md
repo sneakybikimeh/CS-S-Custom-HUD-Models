@@ -6,7 +6,9 @@ I'm just uploading the files atm, I haven't tested them on that version just yet
 
 ## Installation
 To install it, you just have to create a folder at this path : 
+
 `Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\custom\`
+
 All you have left to do is dropping all the folders inside it after extraction.
 
 In case you change something, you will have to restart the game to see the modifications take place !
