@@ -42,6 +42,7 @@ Speedmeter
 
 ## Credits
 The HUD is a modified version of Trikz Hud made by tele https://gamebanana.com/mods/528691.
+
 Props to Heisen for letting me know about the Wireframe stuff ! :D
 
 ## Details
