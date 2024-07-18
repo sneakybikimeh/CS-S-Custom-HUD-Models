@@ -32,9 +32,9 @@ Choosing a team
 
 1st Person POV
 
-![image](https://github.com/user-attachments/assets/45708344-f2cc-4eea-a62e-49ef20847487)
+![image](https://github.com/user-attachments/assets/bee78a21-1e31-4ccf-b7c7-8e05dbf43d5a)
 
-3rd Person POV
+3rd Person POV (with some other settings)
 
 ![image](https://github.com/user-attachments/assets/7ffde927-446d-43b3-8905-7b7c147b2b91)
 
