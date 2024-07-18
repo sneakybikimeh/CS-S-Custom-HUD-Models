@@ -1,0 +1,5 @@
+Wireframe
+{
+"$basetexture" "models/wireframed_texture"
+$color2 "{255 255 255}"
+}
