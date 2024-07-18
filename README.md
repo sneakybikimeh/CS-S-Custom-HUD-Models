@@ -25,7 +25,7 @@ Props to Heisen for letting me know about the Wireframe stuff ! :D
 
 ## Details
 - NoHud (removes healthbar, ammo etc..)
-- Custom Weapons models client sided (Teal Wireframe for most of it) 1st and 3rd person
+- Custom Weapons models client sided (White Wireframe for most of it) 1st and 3rd person
 - Custom Fonts (default : URW Gothic L; Speedmeter : Tewi)
 - Custom Scoreboard (White x Transparent)
 - Custom HUD colors (Teal x White)
