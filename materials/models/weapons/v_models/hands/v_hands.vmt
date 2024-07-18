@@ -1,7 +1,5 @@
-VertexLitGeneric
+Wireframe
 {
-	"$basetexture"	"models\weapons\v_models\hands\v_hands"
-	"$bumpmap" "models\weapons\v_models\hands\v_hands_normal"
-	"$normalmapalphaenvmapmask" "0"
-
+"$basetexture" "models/wireframed_texture"
+$color2 "{255 255 255}"
 }
