@@ -32,9 +32,13 @@ Choosing a team
 
 1st Person POV
 
-![image](https://github.com/user-attachments/assets/7ffde927-446d-43b3-8905-7b7c147b2b91)
+![image](https://github.com/user-attachments/assets/45708344-f2cc-4eea-a62e-49ef20847487)
 
 3rd Person POV
+
+![image](https://github.com/user-attachments/assets/7ffde927-446d-43b3-8905-7b7c147b2b91)
+
+Speedmeter
 
 ## Credits
 The HUD is a modified version of Trikz Hud made by tele https://gamebanana.com/mods/528691.
