@@ -1,2 +1,28 @@
-# CS:S Custom HUD Models
+# Counter Strike : Source Custom HUD + Models
 This set of custom files will modify the appearance of the HUD, and some models for CS:S, it has been made mostly for Trikz, and some stuff will surely be scuffed !
+
+## Disclaimer
+I'm just uploading the files atm, I haven't tested them on that version just yet, some stuff will probably be missing !
+
+## Installation
+To install it, you just have to create a folder at this path : `Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\custom\`, and drop all the folders after extraction inside it.
+
+In case you change something, you will have to restart the game to see the modifications take place !
+
+## Customization
+If you want to modify stuff, you should refer to https://github.com/teleqwe/CSSHudDocumentation, it's the documentation I personally used.
+
+## Examples
+Here's a few screenshots to give you an idea of the results :
+
+## Credits
+The HUD is a modified version of Trikz Hud made by tele https://gamebanana.com/mods/528691.
+Props to Heisen for letting me know about the Wireframe stuff ! :D
+
+## Details
+- NoHud (removes healthbar, ammo etc..)
+- Custom Weapons models client sided (Teal Wireframe for most of it) 1st and 3rd person
+- Custom Fonts (default : URW Gothic L; Speedmeter : Tewi)
+- Custom Scoreboard (White x Transparent)
+- Custom HUD colors (Teal x White)
+- Custom sidepanel/radarpanel (Teal x White x Transparent)
