@@ -30,8 +30,7 @@ Choosing a team
 
 ![image](https://github.com/user-attachments/assets/21147641-84e6-4327-8e60-49acec3fc47d)
 
-1st Person POV (with other gloves)
-
+1st Person POV
 ![image](https://github.com/user-attachments/assets/3c494573-45fe-44c4-8779-6c39fb6928ac)
 
 3rd Person POV
