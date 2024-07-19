@@ -4,7 +4,7 @@ This set of custom files will modify the appearance of the HUD, and some models 
 ## Installation
 To install it, you just have to create a folder at this path : 
 
-`Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\custom\`
+`Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\custom\[nameofyourfolder]\`
 
 All you have left to do is dropping all the folders inside it after extraction.
 
@@ -51,6 +51,7 @@ Props to Heisen for letting me know about the Wireframe stuff ! :D
 - Custom Player Bits Models
 - Custom Fonts (default : URW Gothic L; Speedmeter : Tewi)
 - Custom Scoreboard (White x Transparent)
-- Custom HUD colors (Teal x White)
-- Custom sidepanel/radarpanel (Teal x White x Transparent)
+- Custom HUD colors (Teal x White x Transparent)
+- Custom Sidepanel/Radiopanel (Teal x White x Transparent)
+- Custom Console (White x Transparent)
 - Custom Main Menu Background (Full Dark)
