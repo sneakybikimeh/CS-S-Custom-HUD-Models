@@ -64,8 +64,8 @@ Scheme
 		Frame.FocusTransitionEffectTime		"0"							// time it takes for a server browser to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime			"0"							// time it takes for a server browser to fade in/out on open/close
 		Frame.AutoSnapRange					"0"
-		FrameGrip.Color1					"blue"						// highlighted spec menu text
-		FrameTitleButton.FgColor			"blue"						// team select/spectator cross
+		FrameGrip.Color1					"White"						// highlighted spec menu text
+		FrameTitleButton.FgColor			"White"						// team select/spectator cross
 		FrameTitleButton.BgColor			"Back2"						// team select/spectator cross box fill
 
 		Label.TextColor						"Blank"						// SELECT TEAM text & map name top right
@@ -118,8 +118,8 @@ Scheme
 		
         "Normal"            				"Lightblue"					// weapon icon select colour
 		
-		"CT_Blue"							"Blue"						// text on player crosshair hovering person
-		"T_Red"								"Red"						// text on player crosshair hovering person
+		"CT_Blue"							"White"						// text on player crosshair hovering person
+		"T_Red"								"white"						// text on player crosshair hovering person
 
 	
 		
