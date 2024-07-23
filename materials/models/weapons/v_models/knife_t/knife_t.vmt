@@ -1,7 +1,5 @@
-VertexLitGeneric
+Wireframe
 {
-	"$basetexture"	"models\weapons\v_models\knife_t\knife_t"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "models\weapons\v_models\knife_t\knife_t_ref"
-
+"$basetexture" "models/wireframed_texture"
+$color2 "{255 255 255}"
 }
